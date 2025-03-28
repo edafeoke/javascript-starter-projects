@@ -1,1 +1,1 @@
-# javascript-starter-projects
+# Javascript Starter Projects
